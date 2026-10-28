@@ -1,0 +1,6 @@
+{
+  "name": "AdSenseGuard Studio",
+  "description": "Standalone AI Skill Compiler, 2026 Google AdSense Policy Encyclopedia, and Pre-Submission Compliance Auditor for building monetization-ready websites and web apps from day one.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
